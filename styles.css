@@ -2,3 +2,44 @@
     box-sizing: border-box;
 }
 
+h1{
+    background-color: pink;
+    color:white;
+}
+
+
+.p1{
+    color:orange
+}
+
+.p2{
+    color:chartreuse
+}
+
+.p3{
+    color:blue;
+
+}
+
+h2  { 
+    color:chartreuse;
+}
+
+body{
+    background-color: black;
+}
+
+.border1{
+    background-color: white;
+}
+
+
+
+p{
+    color:antiquewhite;
+}
+
+
+
+
+
